@@ -1,5 +1,5 @@
 {
-  "name": "@hello-world/server",
+  "name": "@hello-world-1/server",
   "private": true,
   "scripts": {
     "start": "nest start",

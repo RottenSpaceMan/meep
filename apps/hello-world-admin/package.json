@@ -1,5 +1,5 @@
 {
-  "name": "@hello-world/admin",
+  "name": "@hello-world-1/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
